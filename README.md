@@ -1,2 +1,2 @@
 # Projekter
-Egne projekter fra datatekniker-studiet
+Egne projekter inspireret af det, jeg lærer undervejs som datatekniker-studerende

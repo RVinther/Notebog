@@ -22,7 +22,7 @@ Jeg bruger den som et notat-og-opslagsværk for de mange fagtermer, vi undervejs
 - Automatisk backup af JSON-data  
 - Input-validering, så du ikke kan tilføje duplikater eller tomme begreber  
 
-## Mangler du en datatekniker-voksenelev?
+## Mangler du en datatekniker-voksenlærling?
 
 Foruden en stor passion for fodbold, Formula One, litteratur og familieliv, kan du forvente:
 

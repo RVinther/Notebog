@@ -26,11 +26,12 @@ Jeg bruger den som et notat-og-opslagsværk for de mange fagtermer, vi undervejs
 
 Foruden en stor passion for fodbold, Formula One, litteratur og familieliv, kan du forvente:
 
-- Lærenem og trives med kompleks problemløsning  
-- Humoristisk og omsorgsfuld kollega  
-- Møder altid ind med smil og energi  
+- At jeg er lærenem og trives med kompleks problemløsning
+- At jeg er en humoristisk og omsorgsfuld kollega
+- At jeg møder ind med smil og energi
 
 Kontakt:
 
-- GitHub: https://github.com/RVinther  
-- LinkedIn: www.linkedin.com/in/mathias-vinther-ravnholt-nielsen-01048612a
+ - Min hjemmeside: https://rvinther.github.io/
+ - GitHub: https://github.com/RVinther
+ - LinkedIn: www.linkedin.com/in/mathias-vinther-ravnholt-nielsen-01048612a
